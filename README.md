@@ -1,14 +1,10 @@
 # Sidra-Tul-Muntaha-Ghouri.github.io
 <!DOCTYPE html>
 <html>
-<body>
+<head>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
+
   <title>My GitHub Page</title>
   <link rel="stylesheet" href="style.css">
 </head>
