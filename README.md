@@ -5,7 +5,7 @@
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 
-  <title>My GitHub Page</title>
+ 
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
