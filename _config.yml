@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/sidra-tul-muntaha-ghouri/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sidra-tul-muntaha-ghouri/">View My LinkedIn Profile</a>
+  <a href="https://medium.com/@sidratulmuntahaghouri/"><img src="https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/7088889_medium_medium%20logo_icon.png" alt="Medium" title="Medium" width="50" height="50"></a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
